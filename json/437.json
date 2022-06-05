@@ -1,0 +1,31 @@
+{
+  "name": "OpenSeaLand #437",
+  "description": "Play to Earn &  A virtual gaming world where players can build, own, play and earn.",
+  "image": "ipfs://QmUzkAMNC4XzJFWa91uVeUkCWPvJRauCqNc1bGpa7Wrgus/437.png",
+  "dna": "5904c80807b0fc7416ad23d91c88c39f2031ca8b",
+  "edition": 437,
+  "date": 1654399710648,
+  "attributes": [
+    {
+      "trait_type": "amap",
+      "value": "Map1"
+    },
+    {
+      "trait_type": "build",
+      "value": "Grass"
+    },
+    {
+      "trait_type": "flower",
+      "value": "flower"
+    },
+    {
+      "trait_type": "resource",
+      "value": "Tree"
+    },
+    {
+      "trait_type": "tree",
+      "value": "Grass"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,31 @@
+{
+  "name": "OpenSeaLand #425",
+  "description": "Play to Earn &  A virtual gaming world where players can build, own, play and earn.",
+  "image": "ipfs://QmUzkAMNC4XzJFWa91uVeUkCWPvJRauCqNc1bGpa7Wrgus/425.png",
+  "dna": "8216ebbd6e8eeac4a74bec976bcdb770eb7139c6",
+  "edition": 425,
+  "date": 1654399708502,
+  "attributes": [
+    {
+      "trait_type": "amap",
+      "value": "Map5"
+    },
+    {
+      "trait_type": "build",
+      "value": "StoneBridge"
+    },
+    {
+      "trait_type": "flower",
+      "value": "Stone"
+    },
+    {
+      "trait_type": "resource",
+      "value": "Tree"
+    },
+    {
+      "trait_type": "tree",
+      "value": "monument"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}
